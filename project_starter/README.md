@@ -19,4 +19,4 @@ You can run the project in two easy steps:
 
 
 The web app is served at: 
-http://serve-webap-d5hzoq8qk2a7-415030427.us-west-2.elb.amazonaws.com/
+http://server-webap-d5hzoq8qk2a7-415030427.us-west-2.elb.amazonaws.com/
