@@ -14,9 +14,9 @@ In YAML code, the `${EnvironmentName}` would be substituted with `UdacityProject
 You can run the project in two easy steps:
 ```bash
 
-./create.sh network network.yml network-parameters.json 
-./create.sh server servers.yml servers-parameters.json
+./create.sh createNetwork network.yml network-parameters.json
+./create.sh createServers final-project-starter.yml  server-parameters.json
 
 
 The web app is served at: 
-http://serve-webap-d5hzoq8qk2a7-415030427.us-west-2.elb.amazonaws.com/
+http://createserv-webapplb-1hf0iecgd9cq-823836289.us-west-2.elb.amazonaws.com/
