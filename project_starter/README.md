@@ -17,6 +17,6 @@ You can run the project in two easy steps:
 ./create.sh createNetwork network.yml network-parameters.json
 ./create.sh createServers final-project-starter.yml  server-parameters.json
 
-
-The web app is served at: 
+### The web app is served at: 
 http://createserv-webapplb-1hf0iecgd9cq-823836289.us-west-2.elb.amazonaws.com/
+
