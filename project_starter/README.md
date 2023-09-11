@@ -18,5 +18,5 @@ You can run the project in two easy steps:
 ./create.sh createServers final-project-starter.yml  server-parameters.json
 
 ### The web app is served at: 
-http://createserv-webapplb-1hf0iecgd9cq-823836289.us-west-2.elb.amazonaws.com/
+http://createserv-webapplb-0r26k9byneo0-355821663.us-west-2.elb.amazonaws.com/
 

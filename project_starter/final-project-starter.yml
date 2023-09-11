@@ -65,8 +65,6 @@ Resources:
           echo "It works! Udagram, Udacity" > index.html       
       # ToDo: AMI ID of Ubuntu Linux machine. Too get one, try creating a VM from the web console. 
       ImageId: ami-0c65adc9a5c1b5d7c
-      # ToDo: Change the key-pair name, as applicable to you. 
-      KeyName: VocareumKey2
       SecurityGroups:
       - Ref: WebServerSecGroup
       InstanceType: t3.micro
